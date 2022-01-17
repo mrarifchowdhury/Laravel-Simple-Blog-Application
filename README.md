@@ -1,4 +1,4 @@
-<h1>Applications Screenshot</h1><hr>
+<h1 align="center">Applications Screenshot</h1>
 
 
 
