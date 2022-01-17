@@ -1,15 +1,21 @@
-<h3 style="text-align:center;">Applications Screenshot </h3>
+<h1>Applications Screenshot</h1><hr>
 
+
+
+<p> Admin Panel </p>
 <img src="https://i.imgur.com/7vNoVCR.png" >
-<span> Admin Panel </span>
+<br>
 
+<p> View Blog List </p>
 <img src="https://i.imgur.com/k4sD2qc.png" >
-<span> View Blog List </span>
+<br>
 
+<p> Edit Blog Page </p>
 <img src="https://i.imgur.com/nbNj7W0.png" >
-<span> Edit Blog Page </span>
+<br>
 
+
+<p> Home Page </p>
 <img src="https://i.imgur.com/ceZFTPG.png" >
-<span> Home Page </span>
 
 
